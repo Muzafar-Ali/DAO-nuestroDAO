@@ -8,10 +8,11 @@ To get started with this project, clone this repo and follow these commands:
 3. Start coding!
 
 # ***Dapp Features***
-1- Page will show Mint your membership NFT if someone who is not member
-2- if already minted the membership NFT Dapp wil directly take member to its Memebers Dashboard 
-3- create Governance token for voting
-4-
+1.  Page will show Mint your membership NFT button if someone who is not member
+2.  if already minted the membership NFT Dapp wil directly take member to its Memebers Dashboard 
+3.  create Governance token for voting
+4.  Airdrop: find all the member addresses who hold  membership NFTs, airdrop each member random amount 1000 - 10,00 of governance token.
+5. Show off governance token holders on DAO dashboard 
 
 
 ### **Questions?**
