@@ -15,6 +15,8 @@ To get started with this project, clone this repo and follow these commands:
 5. Show off governance token holders on DAO dashboard 
 6. Show of active proposals on member dashboard 
 
+Deployed at : https://dazzling-capybara-284b4c.netlify.app/
+
 
 ### **Questions?**
 Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/projects/COb520aae3-7925-42f4-a5e7-eaf718933766) and link your Discord account so you can get access to helpful channels and your instructor!
