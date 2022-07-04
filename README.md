@@ -13,6 +13,7 @@ To get started with this project, clone this repo and follow these commands:
 3.  create Governance token for voting
 4.  Airdrop: find all the member addresses who hold  membership NFTs, airdrop each member random amount 1000 - 10,00 of governance token.
 5. Show off governance token holders on DAO dashboard 
+6. Show of active proposals on member dashboard 
 
 
 ### **Questions?**
